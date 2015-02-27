@@ -1,2 +1,5 @@
 # bot-for-ATB
-this is a plug.dj bot for my buddy ATB
+
+# grab the script here
+javascript:(function(){$.getScript('https://rawgit.com/dj-monstercat/bot-for-ATB/Bot.js/Bot.js');})();
+
